@@ -245,10 +245,8 @@ main_menu
 
 ---
 
-**Enjoy!**  
+**Enjoy!** 
+   ^∞^ 
 For questions, improvements, or more features, open an issue or PR on [GitHub](https://github.com/X-616/X-1-Terminal-Menu).
 
 ---
-
-You can copy everything above (from the title to here) and paste it directly into your README.md!  
-If you want to add more functions or explanations, let me know.
