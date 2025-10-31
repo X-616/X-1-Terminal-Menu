@@ -5,7 +5,7 @@ Features:
 SSH, Security, Notes, and Live System Monitor.
 
 
-images/IMG_20251031_041142.jpg
+(images/IMG_20251031_041142.jpg)
 
 
  ♦Removing Termux welcome message♦ (optional):
