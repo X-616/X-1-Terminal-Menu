@@ -5,7 +5,7 @@ Features:
 SSH, Security, Notes, and Live System Monitor.
 
 
-https://github.com/X-616/X-1-Terminal-Menu/blob/main/IMG_20251031_041142.jpg
+
 
 
  ♦Removing Termux welcome message♦ (optional):
