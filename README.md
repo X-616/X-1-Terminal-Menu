@@ -1,8 +1,8 @@
 
 ---
 
-# ♥Terminal-Menu♥
-        X-1
+# ♥TerminalMenu♥
+       **X-1**
 
 **X-1 System Diagnostics:**  
 Advanced, color-coded Bash menu for managing Linux/Termux environments.
