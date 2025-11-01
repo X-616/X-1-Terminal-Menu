@@ -45,6 +45,35 @@
 
 ---
 
+
+
+---
+
+## 🟢 Quick Install for Termux
+
+You can install and run the menu automatically with one command:
+
+```bash
+curl -o ~/x1-terminal-menu.sh https://raw.githubusercontent.com/X-616/X-1-Terminal-Menu/main/x1-terminal-menu.sh && bash ~/x1-terminal-menu.sh
+```
+
+If you want the menu to start **automatically** every time you open Termux, use:
+
+```bash
+curl -s https://raw.githubusercontent.com/X-616/X-1-Terminal-Menu/main/x1-terminal-menu.sh >> ~/.bashrc
+```
+
+---
+
+**Instructions:**
+- The first command downloads and runs the script immediately (one-time run).
+- The second command will add it to your `~/.bashrc`, so the menu will appear every time you open Termux automatically.
+
+**Make sure that the file `x1-terminal-menu.sh` exists in your repository at the path:**  
+`https://github.com/X-616/X-1-Terminal-Menu/blob/main/x1-terminal-menu.sh`
+
+
+
 ```bash
 #!/bin/bash
 
