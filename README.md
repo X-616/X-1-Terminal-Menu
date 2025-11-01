@@ -5,7 +5,8 @@
        
 
 **X-1 System Diagnostics:**  
-Advanced, color-coded Bash menu for managing Linux/Termux environments.
+
+𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕, 𝕔𝕠𝕝𝕠𝕣-𝕔𝕠𝕕𝕖𝕕 𝔹𝕒𝕤𝕙 𝕞𝕖𝕟𝕦 𝕗𝕠𝕣 𝕞𝕒𝕟𝕒𝕘𝕚𝕟𝕘 𝕃𝕚𝕟𝕦𝕩/𝕋𝕖𝕣𝕞𝕦𝕩 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥𝕤.
 
 **Features:**  
 - SSH management  
